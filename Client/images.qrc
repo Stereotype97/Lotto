@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backgroundGame.jpg</file>
+        <file>backgroundCard.jpg</file>
+        <file>shirtOfCard.png</file>
+        <file>maket.JPG</file>
+        <file>user.png</file>
+        <file>changeKeg.wav</file>
+        <file>background.jpg</file>
+        <file>win.jpg</file>
+        <file>loss.jpg</file>
+        <file>skip.jpg</file>
+        <file>logo.png</file>
+        <file>draw.jpeg</file>
+    </qresource>
+</RCC>
